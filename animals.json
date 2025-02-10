@@ -1,0 +1,572 @@
+[
+  {
+    "id": 1,
+    "reg_number": 1001,
+    "gender": 2,
+    "breed": 2,
+    "ordered_event_objects": [
+      {
+        "id": 1,
+        "kind_name": "Отлов",
+        "kind": 1,
+        "execution_date": "01.01.2024 16:05:43"
+      },
+      {
+        "id": 2,
+        "kind_name": "Первичный осмотр",
+        "kind": 2,
+        "execution_date": "01.01.2024 17:43:15"
+      },
+      {
+        "id": 3,
+        "kind_name": "Клинический осмотр",
+        "kind": 4,
+        "execution_date": "02.01.2024 09:30:22"
+      },
+      {
+        "id": 4,
+        "kind_name": "Содержание",
+        "kind": 12,
+        "execution_date": "17.01.2024 08:52:32"
+      },
+      {
+        "id": 5,
+        "kind_name": "Возврат в прежнюю среду",
+        "kind": 9,
+        "execution_date": "16.01.2024 20:22:52"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "reg_number": 1002,
+    "gender": 1,
+    "breed": 2,
+    "ordered_event_objects": [
+      {
+        "id": 6,
+        "kind_name": "Отлов",
+        "kind": 1,
+        "execution_date": "10.01.2024 10:52:43"
+      },
+      {
+        "id": 7,
+        "kind_name": "Первичный осмотр",
+        "kind": 2,
+        "execution_date": "10.01.2024 13:12:44"
+      },
+      {
+        "id": 8,
+        "kind_name": "Клинический осмотр",
+        "kind": 4,
+        "execution_date": "12.01.2024 12:15:05"
+      },
+      {
+        "id": 9,
+        "kind_name": "Содержание",
+        "kind": 12,
+        "execution_date": "20.01.2024 19:18:45"
+      },
+      {
+        "id": 10,
+        "kind_name": "Возврат в прежнюю среду",
+        "kind": 9,
+        "execution_date": "19.01.2024 22:04:25"
+      }
+    ]
+  },
+    {
+    "id": 3,
+    "reg_number": 1003,
+    "gender": 1,
+    "breed": 1,
+    "ordered_event_objects": [
+      {
+        "id": 11,
+        "kind_name": "Отлов",
+        "kind": 1,
+        "execution_date": "07.01.2024 13:25:34"
+      },
+      {
+        "id": 12,
+        "kind_name": "Первичный осмотр",
+        "kind": 2,
+        "execution_date": "07.01.2024 19:21:28"
+      },
+      {
+        "id": 13,
+        "kind_name": "Клинический осмотр",
+        "kind": 4,
+        "execution_date": "12.01.2024 09:00:58"
+      },
+      {
+        "id": 14,
+        "kind_name": "Содержание",
+        "kind": 12,
+        "execution_date": "20.01.2024 19:18:45"
+      },
+      {
+        "id": 15,
+        "kind_name": "Возврат в прежнюю среду",
+        "kind": 9,
+        "execution_date": "20.01.2024 17:22:45"
+      }
+    ]
+    },
+    {
+      "id": 4,
+      "reg_number": 1004,
+      "gender": 2,
+      "breed": 2,
+      "ordered_event_objects": [
+      {
+        "id": 16,
+        "kind_name": "Отлов",
+        "kind": 1,
+        "execution_date": "18.01.2024 18:48:08"
+      },
+      {
+        "id": 17,
+        "kind_name": "Первичный осмотр",
+        "kind": 2,
+        "execution_date": "19.01.2024 10:33:16"
+      },
+      {
+        "id": 18,
+        "kind_name": "Клинический осмотр",
+        "kind": 4,
+        "execution_date": "19.01.2024 21:52:28"
+      },
+      {
+        "id": 19,
+        "kind_name": "Содержание",
+        "kind": 12,
+        "execution_date": "30.01.2024 19:38:21"
+      },
+      {
+        "id": 20,
+        "kind_name": "Возврат в прежнюю среду",
+        "kind": 9,
+        "execution_date": "30.01.2024 09:16:26"
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "reg_number": 1005,
+    "gender": 1,
+    "breed": 2,
+    "ordered_event_objects": [
+      {
+        "id": 21,
+        "kind_name": "Отлов",
+        "kind": 1,
+        "execution_date": "20.01.2024 15:29:46"
+      },
+      {
+        "id": 22,
+        "kind_name": "Первичный осмотр",
+        "kind": 2,
+        "execution_date": "21.01.2024 09:03:16"
+      },
+      {
+        "id": 23,
+        "kind_name": "Клинический осмотр",
+        "kind": 4,
+        "execution_date": "21.01.2024 16:09:32"
+      },
+      {
+        "id": 24,
+        "kind_name": "Содержание",
+        "kind": 12,
+        "execution_date": "31.01.2024 19:00:21"
+      },
+      {
+        "id": 25,
+        "kind_name": "Возврат в прежнюю среду",
+        "kind": 9,
+        "execution_date": "31.01.2024 13:16:26"
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "reg_number": 1006,
+    "gender": 1,
+    "breed": 1,
+    "ordered_event_objects": [
+      {
+        "id": 26,
+        "kind_name": "Отлов",
+        "kind": 1,
+        "execution_date": "01.02.2024 09:37:21"
+      },
+      {
+        "id": 27,
+        "kind_name": "Первичный осмотр",
+        "kind": 2,
+        "execution_date": "01.02.2024 17:00:10"
+      },
+      {
+        "id": 28,
+        "kind_name": "Клинический осмотр",
+        "kind": 4,
+        "execution_date": "02.02.2024 10:20:25"
+      },
+      {
+        "id": 29,
+        "kind_name": "Содержание",
+        "kind": 12,
+        "execution_date": "10.02.2024 22:30:45"
+      },
+      {
+        "id": 30,
+        "kind_name": "Возврат в прежнюю среду",
+        "kind": 9,
+        "execution_date": "10.02.2024 17:26:50"
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "reg_number": 1007,
+    "gender": 2,
+    "breed": 1,
+    "ordered_event_objects": [
+      {
+        "id": 31,
+        "kind_name": "Отлов",
+        "kind": 1,
+        "execution_date": "05.02.2024 11:42:23"
+      },
+      {
+        "id": 32,
+        "kind_name": "Первичный осмотр",
+        "kind": 2,
+        "execution_date": "05.02.2024 19:43:08"
+      },
+      {
+        "id": 33,
+        "kind_name": "Клинический осмотр",
+        "kind": 4,
+        "execution_date": "06.02.2024 14:26:53"
+      },
+      {
+        "id": 34,
+        "kind_name": "Содержание",
+        "kind": 12,
+        "execution_date": "18.02.2024 10:10:21"
+      },
+      {
+        "id": 35,
+        "kind_name": "Возврат в прежнюю среду",
+        "kind": 9,
+        "execution_date": "17.02.2024 21:56:24"
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "reg_number": 1008,
+    "gender": 2,
+    "breed": 2,
+    "ordered_event_objects": [
+      {
+        "id": 36,
+        "kind_name": "Отлов",
+        "kind": 1,
+        "execution_date": "10.02.2024 20:58:03"
+      },
+      {
+        "id": 37,
+        "kind_name": "Первичный осмотр",
+        "kind": 2,
+        "execution_date": "11.02.2024 14:01:32"
+      },
+      {
+        "id": 38,
+        "kind_name": "Клинический осмотр",
+        "kind": 4,
+        "execution_date": "11.02.2024 20:18:46"
+      },
+      {
+        "id": 39,
+        "kind_name": "Содержание",
+        "kind": 12,
+        "execution_date": "24.02.2024 15:45:31"
+      },
+      {
+        "id": 40,
+        "kind_name": "Возврат в прежнюю среду",
+        "kind": 9,
+        "execution_date": "24.02.2024 10:21:34"
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "reg_number": 1009,
+    "gender": 1,
+    "breed": 2,
+    "ordered_event_objects": [
+      {
+        "id": 41,
+        "kind_name": "Отлов",
+        "kind": 1,
+        "execution_date": "12.02.2024 17:18:34"
+      },
+      {
+        "id": 42,
+        "kind_name": "Первичный осмотр",
+        "kind": 2,
+        "execution_date": "13.02.2024 10:43:08"
+      },
+      {
+        "id": 43,
+        "kind_name": "Клинический осмотр",
+        "kind": 4,
+        "execution_date": "13.02.2024 14:48:24"
+      },
+      {
+        "id": 44,
+        "kind_name": "Содержание",
+        "kind": 12,
+        "execution_date": "25.02.2024 21:20:36"
+      },
+      {
+        "id": 45,
+        "kind_name": "Возврат в прежнюю среду",
+        "kind": 9,
+        "execution_date": "25.02.2024 21:09:20"
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "reg_number": 1010,
+    "gender": 1,
+    "breed": 1,
+    "ordered_event_objects": [
+      {
+        "id": 46,
+        "kind_name": "Отлов",
+        "kind": 1,
+        "execution_date": "17.02.2024 21:31:43"
+      },
+      {
+        "id": 47,
+        "kind_name": "Первичный осмотр",
+        "kind": 2,
+        "execution_date": "18.02.2024 09:54:32"
+      },
+      {
+        "id": 48,
+        "kind_name": "Клинический осмотр",
+        "kind": 4,
+        "execution_date": "18.02.2024 16:50:16"
+      },
+      {
+        "id": 49,
+        "kind_name": "Содержание",
+        "kind": 12,
+        "execution_date": "28.02.2024 15:29:46"
+      },
+      {
+        "id": 50,
+        "kind_name": "Возврат в прежнюю среду",
+        "kind": 9,
+        "execution_date": "28.02.2024 10:37:25"
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "reg_number": 1011,
+    "gender": 2,
+    "breed": 2,
+    "ordered_event_objects": [
+      {
+        "id": 51,
+        "kind_name": "Отлов",
+        "kind": 1,
+        "execution_date": "01.03.2024 20:19:34"
+      },
+      {
+        "id": 52,
+        "kind_name": "Первичный осмотр",
+        "kind": 2,
+        "execution_date": "02.03.2024 09:35:23"
+      },
+      {
+        "id": 53,
+        "kind_name": "Клинический осмотр",
+        "kind": 4,
+        "execution_date": "02.03.2024 12:28:37"
+      },
+      {
+        "id": 54,
+        "kind_name": "Содержание",
+        "kind": 12,
+        "execution_date": "10.03.2024 13:48:37"
+      },
+      {
+        "id": 55,
+        "kind_name": "Возврат в прежнюю среду",
+        "kind": 9,
+        "execution_date": "10.03.2024 10:03:52"
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "reg_number": 1012,
+    "gender": 1,
+    "breed": 2,
+    "ordered_event_objects": [
+      {
+        "id": 56,
+        "kind_name": "Отлов",
+        "kind": 1,
+        "execution_date": "04.03.2024 14:38:29"
+      },
+      {
+        "id": 57,
+        "kind_name": "Первичный осмотр",
+        "kind": 2,
+        "execution_date": "04.03.2024 20:32:20"
+      },
+      {
+        "id": 58,
+        "kind_name": "Клинический осмотр",
+        "kind": 4,
+        "execution_date": "05.03.2024 10:18:47"
+      },
+      {
+        "id": 59,
+        "kind_name": "Содержание",
+        "kind": 12,
+        "execution_date": "15.03.2024 19:28:38"
+      },
+      {
+        "id": 60,
+        "kind_name": "Возврат в прежнюю среду",
+        "kind": 9,
+        "execution_date": "15.03.2024 16:27:32"
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "reg_number": 1013,
+    "gender": 2,
+    "breed": 1,
+    "ordered_event_objects": [
+      {
+        "id": 61,
+        "kind_name": "Отлов",
+        "kind": 1,
+        "execution_date": "10.03.2024 22:01:49"
+      },
+      {
+        "id": 62,
+        "kind_name": "Первичный осмотр",
+        "kind": 2,
+        "execution_date": "11.03.2024 10:31:36"
+      },
+      {
+        "id": 63,
+        "kind_name": "Клинический осмотр",
+        "kind": 4,
+        "execution_date": "11.03.2024 12:41:52"
+      },
+      {
+        "id": 64,
+        "kind_name": "Содержание",
+        "kind": 12,
+        "execution_date": "21.03.2024 14:16:37"
+      },
+      {
+        "id": 65,
+        "kind_name": "Возврат в прежнюю среду",
+        "kind": 9,
+        "execution_date": "21.03.2024 12:41:17"
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "reg_number": 1014,
+    "gender": 1,
+    "breed": 2,
+    "ordered_event_objects": [
+      {
+        "id": 66,
+        "kind_name": "Отлов",
+        "kind": 1,
+        "execution_date": "15.03.2024 20:26:41"
+      },
+      {
+        "id": 67,
+        "kind_name": "Первичный осмотр",
+        "kind": 2,
+        "execution_date": "16.03.2024 10:16:21"
+      },
+      {
+        "id": 68,
+        "kind_name": "Клинический осмотр",
+        "kind": 4,
+        "execution_date": "16.03.2024 15:17:19"
+      },
+      {
+        "id": 69,
+        "kind_name": "Содержание",
+        "kind": 12,
+        "execution_date": "26.03.2024 21:28:35"
+      },
+      {
+        "id": 70,
+        "kind_name": "Возврат в прежнюю среду",
+        "kind": 9,
+        "execution_date": "26.03.2024 09:42:29"
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "reg_number": 1015,
+    "gender": 2,
+    "breed": 1,
+    "ordered_event_objects": [
+      {
+        "id": 71,
+        "kind_name": "Отлов",
+        "kind": 1,
+        "execution_date": "18.03.2024 10:17:49"
+      },
+      {
+        "id": 72,
+        "kind_name": "Первичный осмотр",
+        "kind": 2,
+        "execution_date": "18.03.2024 19:18:31"
+      },
+      {
+        "id": 73,
+        "kind_name": "Клинический осмотр",
+        "kind": 4,
+        "execution_date": "19.03.2024 15:11:52"
+      },
+      {
+        "id": 74,
+        "kind_name": "Содержание",
+        "kind": 12,
+        "execution_date": "30.03.2024 12:22:38"
+      },
+      {
+        "id": 75,
+        "kind_name": "Возврат в прежнюю среду",
+        "kind": 9,
+        "execution_date": "29.03.2024 20:20:10"
+      }
+    ]
+  }
+]
